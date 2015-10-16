@@ -3,7 +3,7 @@
 **Antennas to probe deep into outer space**
 
 
-KSP Forum Thread: http://forum.kerbalspaceprogram.com/threads/128856
+KSP Forum Thread: 
 
 Download Latest Release: https://github.com/Sigma88/Sigma-OuterSpaceComms/releases/latest
 
